@@ -1,0 +1,5 @@
+easyocr>=1.7.2
+matplotlib>=3.8.3
+opencv-python-headless>=4.9.0.80
+numpy>=2.0
+torchvision>=0.23.0
