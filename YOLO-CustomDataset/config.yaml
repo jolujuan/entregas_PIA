@@ -1,0 +1,10 @@
+# config.yaml
+path: /home/lliurex/Documents/YOLO-CustomDataset/data
+# path debe ser una ruta absoluta a donde estan los datos porque si
+# utilizamos una ruta relativa puede dar problemas
+train: images/train  # Ruta relativa a las imagenes de entrenamiento
+val: images/validation  # Ruta relativa a las imagenes de validación
+
+# classes
+names:
+  0: alpaca
