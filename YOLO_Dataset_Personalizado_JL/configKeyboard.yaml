@@ -1,0 +1,15 @@
+# Ruta principal del dataset
+path: /home/lliurex/Documents/YOLO_Dataset_Personalizado_JL/data_keyboard
+
+# Imágenes de entrenamiento
+train: images/train
+
+# Imágenes de validación
+val: images/validation
+
+# Imágenes de prueba
+test: images/test
+
+# Clases
+names:
+  0: Keyboard
